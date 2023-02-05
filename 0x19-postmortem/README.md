@@ -31,6 +31,6 @@ In retrospect, we have identified several areas for improvement, including:
 ## Conclusion:
 In conclusion, we understand the importance of providing a reliable platform for our users. The outage was unacceptable and we are committed to finding the root cause, implementing measures to prevent future incidents, and ensuring that we deliver a high level of service to our users. We apologize for the inconvenience caused and appreciate our users' understanding and patience during this time.
 
-#Author:
+# Author:
 
 Willochs Ojigbo
