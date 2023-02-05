@@ -1,12 +1,12 @@
 ## Title: eLearning Outage Post-Mortem
 ## Date: 5th of February, 2023
-## Duration: 4:00:05pm 16th -  5:00:00pm 19th  January, 2023  GMT +1
+## Duration: 4:00:05pm 16th -  5:00:00pm 19th  January, 2023 (West African Time), GMT +1
 
 ## Introduction:
 On 4:00:05pm 16th of January, an outage occurred in our eLearning platform, causing some parts of the service to be unavailable to users. Our team was able to identify the issue and resolve it quickly, but we understand the impact this had on our users and are committed to finding the root cause and preventing similar incidents from occurring in the future.
 
 ## Duration of Outage:
-The outage lasted from  4:00:05’pm 16th to  5:00:00’pm 19th  January, 2023  GMT +1. During this time, some users were unable to access certain parts of the platform, including the course material and online exams.
+The outage lasted from  4:00:05pm 16th to  5:00:00pm 19th  January, 2023  (West African Time), GMT +1. During this time, some users were unable to access certain parts of the platform, including the course material and online exams.
 
 ## Root Cause Analysis:
 The root cause of the outage was identified as a database failure. Our team discovered that a recent database update had caused a failure in the database, causing the issue.
